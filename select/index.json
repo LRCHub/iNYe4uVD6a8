@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "覚醒",
+  "base_artist": "春猿火 & さなり",
+  "createdAt": "2025-12-12T13:48:34.677304Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "覚醒",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/01_覚醒_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "覚醒",
+      "artist": "目黒将司",
+      "has_synced": false,
+      "path": "select/02_覚醒_目黒将司.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "覚醒、冱てる魂と運命の境界線",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/03_覚醒、冱てる魂と運命の境界線_妖精帝國.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kakusei, Iteru Tamashii to Unmei no Kyoukaisen (覚醒、冱てる魂と運命の境界線)",
+      "artist": "Yousei Teikoku (妖精帝國)",
+      "has_synced": true,
+      "path": "select/04_Kakusei,_Iteru_Tamashii_to_Unmei_no_Kyoukaisen_(覚醒、冱てる魂と運命の境界線)_Yousei_Teikoku_(妖精帝國).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "覚醒～open your eyes～",
+      "artist": "KOKIA",
+      "has_synced": false,
+      "path": "select/05_覚醒~open_your_eyes~_KOKIA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "覚醒",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/06_覚醒_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "覚醒、冱てる魂と運命の境界線",
+      "artist": "妖精帝國 (Yousei Teikoku)",
+      "has_synced": true,
+      "path": "select/07_覚醒、冱てる魂と運命の境界線_妖精帝國_(Yousei_Teikoku).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "覚醒、冱てる魂と運命の境界線(instrumental)",
+      "artist": "妖精帝國",
+      "has_synced": true,
+      "path": "select/08_覚醒、冱てる魂と運命の境界線(instrumental)_妖精帝國.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "覚醒",
+      "artist": "春猿火 & さなり",
+      "has_synced": false,
+      "path": "select/pl_01_覚醒_春猿火_&_さなり.txt"
+    }
+  ]
+}
